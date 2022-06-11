@@ -49,6 +49,8 @@ Note: The styling for all pages are provided for you. However, feel free to play
     import "./About.css";
     import <profile_pic_name> from "../assets/profile_pic_name.jpg";
     ```
+
+    
 ### TO-DO List APP
 1. Navigate to `src/components/AddTodo.js` and `src/components/todos.js`
     + `AddTodo.js`
