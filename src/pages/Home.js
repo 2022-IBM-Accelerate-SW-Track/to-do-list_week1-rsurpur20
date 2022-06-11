@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import "./AddTodo.js";
-import "./todos.js";
+import "../component/AddTodo.js";
+import "../component/todos.js";
 import "./Home.css";
 
 class Home extends Component {
